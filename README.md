@@ -1,12 +1,12 @@
-# Passwort Generator
+# Password Generator
 
-Der Passwort Generator ist ein Python-Programm, das kryptografisch sichere Passwörter generiert. Diese Passwörter können verwendet werden, um Konten und Daten sicher zu schützen.
+Der Password Generator ist ein Python-Programm, das kryptografisch sichere Passwörter generiert. Diese Passwörter können verwendet werden, um Konten und Daten sicher zu schützen.
 
 **WICHTIG:** Verwende die generierten Passwörter verantwortungsbewusst und stelle sicher, dass du sie sicher aufbewahrst. Passwörter sollten niemals unverschlüsselt oder in unsicheren Umgebungen gespeichert werden.
 
 ## Funktionalität
 
-Der Passwort Generator bietet folgende Funktionalität:
+Der Password Generator bietet folgende Funktionalität:
 
 - Generiert kryptografisch sichere Passwörter basierend auf einer vorgegebenen Länge.
 - Die Passwörter enthalten eine zufällige Kombination aus Großbuchstaben, Kleinbuchstaben, Ziffern und Sonderzeichen.
@@ -26,7 +26,7 @@ Der Passwort Generator bietet folgende Funktionalität:
 4. Führe das Programm aus und gib die gewünschte Passwortlänge ein:
 
 ```bash
-python PasswortGenerator.py
+python PasswordGenerator.py
 ```
    
 Das Programm wird dich nach der gewünschten Passwortlänge fragen.
